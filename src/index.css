@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+body {
+  margin: 0;
+  /* height: 100vh; */
+  width: 100vw;
+  overflow-x: hidden;
+  font-family: 'Nunito', sans-serif;
+}
+.svgsize {
+  height: 3rem;
+  width: 3rem;
+}
